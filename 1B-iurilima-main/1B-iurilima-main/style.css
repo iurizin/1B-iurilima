@@ -13,8 +13,20 @@ h1 {
 color:blue;
 text-align:center;
 font-size:50;
+}
+
 h2 {
 color:green;
 text-align:left;
 font-size:40;
+}
+.minhalista {
+color:red;
+text-align:center;
+font-size:30; 
+}
+
+.lista {
+color: red;
+font-size: 30;
 }
