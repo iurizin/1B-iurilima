@@ -1,3 +1,21 @@
+.minhalista {
+color:red;
+text-align:center;
+font-size:30; 
+}
+
+.lista {
+color: red;
+font-size: 30;
+}
+#cabecalho {
+    text-aling: center;
+    background: greenyellow;
+    border-bottom-style: solid;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
 #imagem {
     text-align: center;
     border: 5px;
